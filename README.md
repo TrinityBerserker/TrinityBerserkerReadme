@@ -77,8 +77,7 @@ Aquí hay un resumen de mis contribuciones de código y seguridad a proyectos de
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: [linkedin.com/in/TUUSUARIO](https://linkedin.com/in/TUUSUARIO)
-- 📧 Email: tuemail@example.com
+CONSTRUCTION
 
 ---
 
