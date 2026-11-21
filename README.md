@@ -46,6 +46,24 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrinityBerserker&theme=radical" alt="GitHub Streak" />
+</p>
+
+
+## 🌐 Contribuciones Open Source
+
+Aquí hay un resumen de mis contribuciones de código y seguridad a proyectos de la comunidad:
+
+| Proyecto | Descripción | Pull Request | Estado |
+| :--- | :--- | :--- | :--- |
+| 🛡️ **MISP (Core)** | Corrección de fuga de información sensible (API Keys) en los headers de los Feeds (`/feeds`). | [#11295](https://github.com/MISP/MISP/pull/11295) | ✅ Mergeado |
+| 🕸️ **MISP (Core)** | Migración de la librería obsoleta y vulnerable `vis.js` a `vis-network` y `vis-timeline`. | [#11296](https://github.com/MISP/MISP/pull/11296) *(pon aquí el número real que te dio GitHub)* | ⏳ En revisión |
+| 💥 **Metasploit** | Módulo de ejecución remota de comandos (RCE) para CVE-2024-5450 (WordPress Bug Library). | [#21716](https://github.com/rapid7/metasploit-framework/pull/21716) | ✅ Mergeado |
+| 🐳 **MISP / misp-docker** | Corrección del formateo de variables de entorno (JSON Array) para LDAP (`ldapEmailField`). | [#484](https://github.com/MISP/misp-docker/pull/484) | ✅ Mergeado |
+
+---
+
 ## 📈 Estadísticas
 
 <p align="center">
